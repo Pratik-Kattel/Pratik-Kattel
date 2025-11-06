@@ -39,11 +39,13 @@ I love learning how things work behind the scenes and building projects that hel
 
 ---
 
-### 📂 Projects:
-- 🏠 **Home Rental App** – Full-stack Flutter & Node.js app with OTP authentication and booking management  
+### 📂 Projects: 
 - 📘 **Learn Loop** – Flutter app with Node.js backend and email OTP verification  
 
 ---
+### Currently Working On:
+ - - 🏠 **Home Rental App** – Full-stack Flutter & Node.js app with OTP authentication and booking management 
+ ---
 
 ### 🌐 Contact Me:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kattelpratik007@gmail.com)
