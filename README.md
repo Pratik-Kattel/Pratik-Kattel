@@ -39,12 +39,9 @@ I love learning how things work behind the scenes and building projects that hel
 
 ---
 
-### 📂 Projects: 
-- 📘 **Learn Loop** – Flutter app with Node.js backend and email OTP verification  
-
 ---
 ### Currently Working On:
- - - 🏠 **Home Rental App** – Full-stack Flutter & Node.js app with OTP authentication and booking management 
+ - 🏠 **Home Rental App** – Full-stack Flutter & Node.js app with OTP authentication and booking management 
  ---
 
 ### 🌐 Contact Me:
@@ -55,7 +52,6 @@ I love learning how things work behind the scenes and building projects that hel
 
 ### 📊 GitHub Stats:
 ![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikkattel&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkattel&layout=compact&theme=github_dark)
 
 ---
 
