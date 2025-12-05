@@ -57,12 +57,6 @@ I love learning how things work behind the scenes and building projects that hel
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Kattel&layout=compact&theme=radical&hide_border=false" alt="Top Languages"/>
-</p>
-
----
 
 ### ⚡ Fun Fact  
 I love combining creativity with coding, and I’m always exploring new tools to make development more fun and efficient! 🚀
