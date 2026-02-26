@@ -46,11 +46,6 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratik-Kattel&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik-Kattel&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Pratik-Kattel&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -58,9 +53,7 @@
 
 ### 🐍 Contribution Snake  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pratik-Kattel/Pratik-Kattel/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+![snake gif](https://github.com/Pratik-Kattel/Pratik-Kattel/blob/output/github-snake-dark.svg)
 
 ---
 
