@@ -75,7 +75,7 @@
 
 ### ⚡ Fun Fact  
 
-I love combining creativity with coding and turning ideas into real-world projects 🚀  
+I love combining creativity with coding and turning ideas into real-world projects. 🚀  
 Always improving. Always building. Always learning.
 
 ---
