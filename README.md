@@ -38,7 +38,15 @@
 ### 💻 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,nodejs,express,ts,js,postgres,docker,git,linux,vscode,androidstudio,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,nodejs,express,ts,js,postgres,docker" />
+</p>
+
+---
+
+### 🛠️ Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,androidstudio,postman" />
 </p>
 
 ---
