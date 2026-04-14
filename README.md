@@ -9,9 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=Pratik-Kattel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
----
 
-<img src="https://user-images.githubusercontent.com/74038190/216656920-7b6c6d63-8d3f-4f3a-8b7a-6a3e5e2b5d4a.gif" width="100%">
+
+![mario](https://github.com/user-attachments/assets/5bef04cb-ba12-4cad-a9df-a807b127fa10)
+
 
 ---
 
