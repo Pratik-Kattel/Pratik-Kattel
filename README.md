@@ -78,6 +78,9 @@
   <a href="https://www.instagram.com/_ppprrraaatttiiikkk_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+   <a href="https://www.pratikkattel.com.np/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 </p>
 
 ---
