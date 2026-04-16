@@ -57,6 +57,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pratik-Kattel&theme=tokyonight&hide_border=true"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik-Kattel&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
