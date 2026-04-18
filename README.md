@@ -75,7 +75,7 @@
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Connect With Me:
 
 <p align="center">
   <a href="mailto:kattelpratik007@gmail.com">
