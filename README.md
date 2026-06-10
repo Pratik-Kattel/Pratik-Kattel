@@ -58,7 +58,7 @@
   <img src="https://streak-stats.demolab.com?user=Pratik-Kattel&theme=tokyonight&hide_border=true"/>
 </p>
 
-<img align="left"  width="1024px" src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik-Kattel&bg_color=0d0d0d&color=2ec55f&line=2c8f96&point=403d3d&area=true&hide_border=true" alt="Pratik Contribution Graph" />
+<!-- <img align="left"  width="1024px" src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik-Kattel&bg_color=0d0d0d&color=2ec55f&line=2c8f96&point=403d3d&area=true&hide_border=true" alt="Pratik Contribution Graph" /> -->
 
 <br clear="left"/>
 <hr>
