@@ -69,9 +69,6 @@
 <hr>
 
 
-### 🐍 Contribution Snake  
-
-![snake gif](https://github.com/Pratik-Kattel/Pratik-Kattel/blob/output/github-snake-dark.svg)
 
 ---
 
