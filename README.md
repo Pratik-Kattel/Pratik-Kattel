@@ -18,6 +18,7 @@
 
 ### 🧠 About Me  
 
+-  🚀 Currently working at Tech Trendo Multipurpose Company
 - 🎓 Student passionate about building real-world applications  
 - 📱 Love working with **Flutter** for mobile development  
 - 🌐 Exploring **Node.js**, **Express**, and **PostgreSQL**  
