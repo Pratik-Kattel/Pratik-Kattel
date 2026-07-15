@@ -1,0 +1,52 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="45%" stop-color="#1a1a3d"/>
+      <stop offset="100%" stop-color="#0047FF"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="100%" stop-color="#0047FF"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="100%" stop-color="#8f7dff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <!-- soft scattered dots for depth -->
+  <g fill="#ffffff" opacity="0.15">
+    <circle cx="80" cy="40" r="2"/>
+    <circle cx="180" cy="90" r="1.5"/>
+    <circle cx="260" cy="30" r="1.5"/>
+    <circle cx="1000" cy="50" r="2"/>
+    <circle cx="1100" cy="100" r="1.5"/>
+    <circle cx="950" cy="150" r="1.5"/>
+    <circle cx="60" cy="180" r="1.5"/>
+    <circle cx="1140" cy="30" r="2"/>
+  </g>
+
+  <!-- name -->
+  <text x="600" y="115" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="54" font-weight="700" fill="url(#textGrad)" filter="url(#glow)">
+    Pratik Kattel
+  </text>
+
+  <!-- tagline -->
+  <text x="600" y="155" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="20" fill="#c9d6ff">
+    Flutter Developer • Node.js &amp; Django Backend Enthusiast
+  </text>
+
+  <!-- bottom wave -->
+  <path d="M0,220 C200,180 400,260 600,220 C800,180 1000,260 1200,220 L1200,260 L0,260 Z" fill="url(#wave)" opacity="0.9"/>
+  <path d="M0,235 C200,200 400,270 600,235 C800,200 1000,270 1200,235 L1200,260 L0,260 Z" fill="#00F7FF" opacity="0.25"/>
+</svg>
