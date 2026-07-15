@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Pratik%20Kattel&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Flutter%20%26%20Node.js%20Developer&descSize=18&descAlignY=55&textBg=false" width="100%"/>
+<img src="./assets/banner.svg" alt="Pratik Kattel Banner" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;Node.js+%26+Django+Backend+Enthusiast;PostgreSQL+Learner;Docker+Explorer;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing introduction" />
