@@ -79,17 +79,17 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pratik-Kattel&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Pratik-Kattel&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="60%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Pratik-Kattel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik-Kattel&theme=tokyo-night&radius=10" alt="Activity Graph" width="100%" />
-</p>
+</p> -->
 
 ---
 
